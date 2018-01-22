@@ -1,5 +1,7 @@
 # express-github-stitch
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gr2m/express-github-stitch.svg)](https://greenkeeper.io/)
+
 > express plugin for stitching GitHub’s GraphQL API
 
 ## Install
