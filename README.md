@@ -45,13 +45,13 @@ curl http://localhost:3000/ \
   -XPOST \
   -H"Authorization: bearer <your token here>" \
   -H"Content-Type: application/json" \
-  -d '{"query":"{ viewer { twitter } }"}'
+  -d '{"query":"{ viewer { foo } }"}'
 ```
 
 Which returns something like this
 
 ```json
-{"data":{"viewer":{"twitter":"gr2m"}}}
+{"data":{"viewer":{"foo":"bar"}}}
 ```
 
 You can use the [GraphiQL app](https://github.com/skevy/graphiql-app) to send
