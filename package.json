@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "semantic-release": "^12.2.4",
-    "standard": "^10.0.3",
+    "standard": "^11.0.0",
     "travis-deploy-once": "^4.3.2"
   }
 }
