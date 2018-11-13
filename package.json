@@ -20,7 +20,7 @@
   "dependencies": {
     "@gr2m/github-graphql-schema": "^2.0.0",
     "@octokit/rest": "^15.1.7",
-    "apollo-server-express": "^2.0.0",
+    "apollo-server-express": "^2.2.2",
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "graphql-tools": "^4.0.0",
