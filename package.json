@@ -4,7 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "description": "express plugin for stitching GitHub’s GraphQL API",
+  "description": "express plugin for stitching GitHubâs GraphQL API",
   "scripts": {
     "test": "standard",
     "semantic-release": "semantic-release"
@@ -15,7 +15,7 @@
     "stitching"
   ],
   "author": "Gregor Martynus (https://twitter.com/gr2m)",
-  "repository": "https://github.com/gr2m/express-github-stitch",
+  "repository": "github:gr2m/express-github-stitch",
   "license": "MIT",
   "dependencies": {
     "@gr2m/github-graphql-schema": "^2.0.0",
